@@ -25,5 +25,5 @@
   <a href="https://www.linkedin.com/in/raphaelfribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:contato@raphaelfribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=color" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/raphaelfribeiro/raphaelfribeiro/blob/main/github-user-contribution.svg)
+  ![Snake animation](https://github.com/raphaelfribeiro/raphaelfribeiro/blob/main/github-contribution-grid-snake.svg)
 <div>
