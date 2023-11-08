@@ -1,7 +1,6 @@
 ## Hi, my name is Raphael Ribeiro. 👋
 
 - 🔭 I’m currently working on back-end / front-end.
-- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on opensource projects
 
 <div>
@@ -16,7 +15,6 @@
   <img align="center" alt="raphael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="raphael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="raphael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="right" alt="raphael-coding" height="100" width="180" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
 </div>
   
 ##
